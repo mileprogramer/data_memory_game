@@ -1,4 +1,4 @@
-data = [
+[
     {
         "name": "Level 1",
         "grid": [2,3],
