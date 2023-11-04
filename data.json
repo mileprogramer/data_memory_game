@@ -1,31 +1,31 @@
 [
     {
-        "name": "Level 1",
+        "nameLvl": 1,
         "grid": [2,3],
         "cardSize": "150px",
         "time": "120s"
     },
     {
-        "name": "Level 2",
+        "nameLvl": 2,
         "grid": [3,4],
         "cardSize": "150px",
         "time": "200s"
     },
     {
-        "name": "Level 3",
+        "nameLvl": 3,
         "grid": [4,5],
         "cardSize": "120px",
         "time": "500s"
     },
     {
-        "name": "Level 4",
+        "nameLvl": 4,
         "grid": [5,6],
         "cardSize": "100px",
         "time": "1000s"
 
     },
     {
-        "name": "Level 5",
+        "nameLvl": 5,
         "grid": [6,7],
         "cardSize": "80px",
         "time": "1200s"
