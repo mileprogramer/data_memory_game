@@ -3,7 +3,7 @@
         "nameLvl": 1,
         "grid": [2,3],
         "cardSize": "150px",
-        "time": "120s"
+        "time": "60s"
     },
     {
         "nameLvl": 2,
